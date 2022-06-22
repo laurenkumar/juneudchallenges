@@ -1,7 +1,9 @@
+## Two Challenge in one Integrating UNS “Login With Unstoppable” and Integrating UNS Domain Resolution For Crypto Payments Via Unstoppable Domains API
+
 ## Project name
 Unstoppable Search
 
-Search for any information a unstoppable domain may have.
+Search for any information a unstoppable domain may have and connect using unstoppable domain login.
 
 ## DEMO
 Available here https://pure-genius-ud.vercel.app/
