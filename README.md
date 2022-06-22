@@ -6,7 +6,7 @@ Unstoppable Search
 Search for any information a unstoppable domain may have and connect using unstoppable domain login.
 
 ## DEMO
-Available here https://pure-genius-ud.vercel.app/
+Available here https://ud-search.vercel.app/
 
 ## Video Demo
 https://vimeo.com/711248256
