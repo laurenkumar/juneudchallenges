@@ -84,7 +84,7 @@ const ConnectWallet = () => {
         <>
           <div className="">
 
-            {address}
+            {truncateAddress(address)}
 
           </div>
           <div>
