@@ -1,0 +1,26 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navbar > div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 1px solid black;
+}
+
+.navbar div canvas {
+	margin-right: 15px;
+}
+
+.navbar button {
+	border-radius: 0;
+	border: 1px solid black;
+}
+
+.udbutton {
+	background: #0D67FE;
+	color: white;
+}
